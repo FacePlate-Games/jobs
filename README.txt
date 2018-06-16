@@ -24,6 +24,6 @@ Commands
 
 Pretty Simple What They All Do, If You Cant Figure It Out, Welp Ask On The Forums Maybe?
 
-
+NOTE: THE FOLDER HAS TO BE NAMED: jobs
 
 
